@@ -1,6 +1,6 @@
 ## Credit Card Fraud Detection
 
-This repository contains a Jupyter Notebook for detecting credit card fraud using machine learning techniques. The dataset used for this analysis is the [Credit Card Fraud Detection dataset]([https://www.kaggle.com/mlg-ulb/creditcardfraud]) from Kaggle. 
+This repository contains a Jupyter Notebook for detecting credit card fraud using machine learning techniques. The dataset used for this analysis is the Credit Card Fraud Detection dataset ([Link]([https://www.kaggle.com/mlg-ulb/creditcardfraud])) from Kaggle. 
 
 ## Overview
 
